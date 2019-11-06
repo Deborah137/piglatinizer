@@ -2,5 +2,9 @@
     text-align:center;
 }
 body{
-    background:pink;
+    background-color:blue;
 }
+
+.button {
+    background-color: #f44336;
+    }
